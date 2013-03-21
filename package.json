@@ -1,5 +1,5 @@
 {
-  "name": "http-proxy",
+  "name": "weo-http-proxy",
   "version": "0.8.2",
   "description": "A full-featured http reverse proxy for node.js",
   "author": "Nodejitsu Inc. <info@nodejitsu.com>",
